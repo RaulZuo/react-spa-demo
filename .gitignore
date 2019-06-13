@@ -1,0 +1,13 @@
+node_modules/
+tmp/
+temp/
+lib/
+build/
+.build/
+.*-cache/
+.idea/
+*.log
+*.iml
+.DS_Store
+/coverage/
+test/coverage/
